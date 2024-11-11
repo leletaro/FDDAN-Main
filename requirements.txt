@@ -1,0 +1,21 @@
+'''
+# 基础库
+torch==1.9.0           # 深度学习库，支持GPU加速
+opencv-python==4.5.3.56 # 计算机视觉库，提供cv2模块
+numpy==1.21.2          # 科学计算库，用于矩阵运算和数组处理
+
+# 特定功能库
+ultralytics==8.0.20    # 包含YOLO和SAM模型的库，用于目标检测
+
+# Python标准库（无需安装）
+# pathlib              # 文件路径管理库
+# collections          # 数据结构库
+# time                 # 时间管理库
+
+'''
+
+pathlib
+ultralytics
+torch
+opencv-python
+numpy
