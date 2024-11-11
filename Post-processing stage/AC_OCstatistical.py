@@ -8,8 +8,8 @@ import numpy as np
 img_data_path = 'AC_OCstatisticalanalysis'
 
 # 定义检测模型和SAM模型的路径
-det_model_path = "Yolo-seg-pt_File\yolo-last.pt"
-sam_model_path = "LargeModel-seg-pt_File\sam2_l.pt"
+det_model_path = "/PATH"   # File source：DBBG Train
+sam_model_path = "/PATH"   # File source：https://github.com/ultralytics/assets/releases/download/v8.3.0/sam2_l.pt
 
 # 根据CUDA是否可用选择设备
 device = '0' if torch.cuda.is_available() else 'cpu'
