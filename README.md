@@ -1,11 +1,12 @@
 # FDDAN-Main
-# FDDAN-main: Road Damage Segmentation and Quantification
+# Synergistic Enhancement: A Study on the Design of Large Models Assisted by End-to-End Road Damage Prompt Network and Methods for Quantification of Damage Morphological Features
 
 ## Overview
 
 This repository implements **FDDAN**, a novel prompt-assisted network designed for pixel-wise segmentation and quantification of road damage. Road maintenance requires precise damage segmentation and accurate morphological quantification, but traditional methods struggle with the diversity of damage types and the high cost of annotation. **FDDAN** addresses these challenges by integrating a large model with a specialized prompt-assisted network for zero-shot pixel-level segmentation and morphological quantification.
 
 Paper:Synergistic Enhancement:A Study on theDesign of Large Models Assisted by End-to-EndRoad Damage Prompt Network andMethods for Quantification of DamageMorphological Features
+/n
 DOI: 10.1109/JSEN.2025.3569295
 
 ## Key Features
